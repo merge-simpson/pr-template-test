@@ -1,7 +1,7 @@
 name: Ko-KR 번역
 description: Korean/국문 번역 시 병합 템플릿입니다.
 title: "[TRANSLATION] Ko-KR: "
-labels: ["lang: ko-kr", "type: translation"]
+labels: []
 projects: []
 body:
   - type: markdown
